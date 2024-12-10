@@ -41,7 +41,7 @@ if(!isset($user_id)){
    <div class="flex">
 
       <div class="image">
-         <img src="images/Babae.jpg" alt="">
+         <img src="images/newLogo.jpg" alt="">
       </div>
 
       <div class="content">
@@ -58,13 +58,13 @@ if(!isset($user_id)){
 
 <section class="reviews">
 
-   <h1 class="title">Customer's Reviews</h1>
+   <h1 class="title">Customer's Product Reviews</h1>
 
    <div class="box-container">
 
       <div class="box">
-         <img src="images/pic-1.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <img src="images/rosmar.jpg" alt="">
+         <p>I bought a toner in this site and it blends well to my skin. I will definitely order again.</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -72,12 +72,12 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Rosmar Kagayaku</h3>
       </div>
 
       <div class="box">
-         <img src="images/pic-2.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <img src="images/kyla.jpg" alt="">
+         <p>Ang ganda ng productssss</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -85,25 +85,25 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Kyla Isabelle Sayson</h3>
       </div>
 
       <div class="box">
-         <img src="images/pic-3.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <img src="images/tine.jpg" alt="">
+         <p>5 star to sakin</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
-            <i class="fas fa-star-half-alt"></i>
+            <i class="fas fa-star"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Kristine Villanueva</h3>
       </div>
 
       <div class="box">
-         <img src="images/pic-4.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <img src="images/rence.jpg" alt="">
+         <p>Nice!</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -111,33 +111,32 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Lorenze Prepotente</h3>
       </div>
 
       <div class="box">
-         <img src="images/pic-5.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <img src="images/claries.jpg" alt="">
+         <p>Bumili ako ng eyelashes here and it is so cutie</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
-            <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Claries Amistoso</h3>
       </div>
 
       <div class="box">
-         <img src="images/pic-6.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
+         <img src="images/baby ko.jpg" alt="">
+         <p>Gandaaa</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
-            <i class="fas fa-star-half-alt"></i>
+            <i class="fas fa-star"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Ymir</h3>
       </div>
 
    </div>
@@ -151,7 +150,7 @@ if(!isset($user_id)){
    <div class="box-container">
 
       <div class="box">
-         <img src="images/author-1.jpg" alt="">
+         <img src="images/rechelle.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
@@ -169,11 +168,11 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-tiktok"></a>
          </div>
-         <h3>FAITH ANN SANADO</h3>
+         <h3>FAITH ANN SAÑADO</h3>
       </div>
 
       <div class="box">
-         <img src="images/author-3.jpg" alt="">
+         <img src="images/susaine.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
@@ -195,7 +194,7 @@ if(!isset($user_id)){
       </div>
 
       <div class="box">
-         <img src="images/author-5.jpg" alt="">
+         <img src="images/mhelarry.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
@@ -206,7 +205,7 @@ if(!isset($user_id)){
       </div>
 
       <div class="box">
-         <img src="images/author-6.jpg" alt="">
+         <img src="images/reymar.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
@@ -214,7 +213,7 @@ if(!isset($user_id)){
             <a href="#" class="fab fa-linkedin"></a>
          </div>
          <h3>REYMAR LLAGAS</h3>
-         <h2>Instructor</h2>
+         <h2>(Instructor)</h2>
       </div>
 
    </div>
@@ -232,43 +231,5 @@ if(!isset($user_id)){
 <!-- custom js file link  -->
 <script src="js/script.js"></script>
 
-<!-- Code injected by live-server -->
-<script>
-	// <![CDATA[  <-- For SVG support
-	if ('WebSocket' in window) {
-		(function () {
-			function refreshCSS() {
-				var sheets = [].slice.call(document.getElementsByTagName("link"));
-				var head = document.getElementsByTagName("head")[0];
-				for (var i = 0; i < sheets.length; ++i) {
-					var elem = sheets[i];
-					var parent = elem.parentElement || head;
-					parent.removeChild(elem);
-					var rel = elem.rel;
-					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
-						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
-						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
-					}
-					parent.appendChild(elem);
-				}
-			}
-			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
-			var address = protocol + window.location.host + window.location.pathname + '/ws';
-			var socket = new WebSocket(address);
-			socket.onmessage = function (msg) {
-				if (msg.data == 'reload') window.location.reload();
-				else if (msg.data == 'refreshcss') refreshCSS();
-			};
-			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
-				console.log('Live reload enabled.');
-				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
-			}
-		})();
-	}
-	else {
-		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
-	}
-	// ]]>
-</script>
 </body>
 </html>
